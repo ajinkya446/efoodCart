@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ajinkya/flutter_razorpay/BuildConfig.java
+ com.ajinkya.flutter_razorpay.BuildConfig
